@@ -1,0 +1,1 @@
+O aplicatie multifunctionala si folositoare tuturor utilizatorilor de telefoane pe system android.
